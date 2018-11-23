@@ -106,6 +106,7 @@ cpuminer_SOURCES = \
   algo/x14.c \
   algo/x15.c \
   algo/x16r.c \
+  algo/x16rt.c \
   algo/x16s.c \
   algo/x17.c \
   algo/xevan.c \

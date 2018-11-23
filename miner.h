@@ -548,6 +548,7 @@ void x13hash(void *output, const void *input);
 void x14hash(void *output, const void *input);
 void x15hash(void *output, const void *input);
 void x16r_hash(void *output, const void *input);
+void x16rt_hash(void *output, const void *input);
 void x16s_hash(void *output, const void *input);
 void x17hash(void *output, const void *input);
 void zr5hash(void *output, const void *input);
